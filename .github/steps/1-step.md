@@ -98,7 +98,7 @@ Vamos iniciar nosso ambiente de desenvolvimento, usar o Copilot para aprender um
    > ![Static Badge](https://img.shields.io/badge/-Prompt-text?style=social&logo=github%20copilot)
    >
    > ```prompt
-   > Ei Copilot, como posso criar e publicar um novo branch Git chamado "accelerate-with-copilot"?
+   > O que devo fazer para executá-lo?
    > ```
 
    > 💡 **Dica:** Se o Copilot não der exatamente o que você quer, você sempre pode continuar explicando o que precisa. O Copilot lembrará o histórico da conversa para respostas de acompanhamento.
